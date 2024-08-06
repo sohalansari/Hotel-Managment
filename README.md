@@ -1,2 +1,2 @@
 # Hotel-Managment
-this is my fist project. 
+this is my fist project using Node.js 
